@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" role="img" aria-labelledby="title desc">
+  <title id="title">MNS Holdings logo</title>
+  <desc id="desc">Gold MNS lettering framed by interwoven gold loops on a black background.</desc>
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f3dfaa"/>
+      <stop offset="0.48" stop-color="#c6a05b"/>
+      <stop offset="1" stop-color="#f0d99e"/>
+    </linearGradient>
+  </defs>
+  <rect width="500" height="500" fill="#050505"/>
+  <g fill="none" stroke="url(#gold)" stroke-width="5" opacity="0.96">
+    <ellipse cx="250" cy="250" rx="186" ry="132" transform="rotate(32 250 250)"/>
+    <ellipse cx="250" cy="250" rx="186" ry="132" transform="rotate(-32 250 250)"/>
+    <path d="M250 54C299 94 392 83 420 151c22 54-10 126-2 185 9 68-77 86-125 111-35 18-62 53-93 18-44-49-141-57-151-126-8-57 28-112 8-165-22-59 38-91 105-93 37-1 61-14 88-27Z"/>
+    <path d="M250 69c-49 39-126 49-155 100-31 55-1 99-4 154-4 70 55 96 117 113 24 7 38 35 67 15 45-32 111-56 146-99 38-46 4-89 6-143 3-72-67-81-116-116-23-16-34-45-61-24Z"/>
+  </g>
+  <text x="250" y="305" text-anchor="middle" fill="url(#gold)" font-family="Cormorant Garamond, Georgia, serif" font-size="184" font-weight="500">MNS</text>
+</svg>
